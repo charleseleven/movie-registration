@@ -1,0 +1,116 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Star Wars: The Force Awakens",
+      "plotSummary": "Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.",
+      "year": 2015,
+      "author": "Daisy Ridley, Adam Driver, John Boyega, Harrison Ford, Mark Hamill, Carrie Fisher",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Raiders of the Lost Ark",
+      "plotSummary": "Archaeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.",
+      "year": 1981,
+      "author": "Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey, John Rhys-Davies",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Schindler's List",
+      "plotSummary": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "year": 1993,
+      "author": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall",
+      "complete": true
+    },
+    {
+      "id": 4,
+      "title": "Avatar 2",
+      "plotSummary": "(unknown)",
+      "year": 2021,
+      "author": "Sam Worthington, Zoë Saldaña, CCH Pounder, Cliff Curtis, Kate Winslet, Giovanni Ribisi",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "title": "Indiana Jones and the Last Crusade",
+      "plotSummary": "When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.",
+      "year": 1989,
+      "author": "Harrison Ford, Sean Connery, Alison Doody, River Phoenix ",
+      "complete": true
+    },
+    {
+      "id": 6,
+      "title": "Capote",
+      "plotSummary": "In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case. While researching for his novel In Cold Blood, Capote forms a relationship with one of the killers, Perry Smith, who is on death row.",
+      "year": 2005,
+      "author": "Philip Seymour Hoffman, Catherine Keener, Clifton Collins Jr., Chris Cooper",
+      "complete": true
+    },
+    {
+      "id": 7,
+      "title": "Along Came Polly",
+      "plotSummary": "A buttoned up newlywed finds his too organized life falling into chaos when he falls in love with an old classmate.",
+      "year": 2004,
+      "author": "Ben Stiller, Jennifer Aniston, Philip Seymour Hoffman, Debra Messing, Alec Baldwin",
+      "complete": true
+    },
+    {
+      "id": 8,
+      "title": "Avengers: Infinity War",
+      "plotSummary": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "year": 2018,
+      "author": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Chadwick Boseman, Benedict Cumberbatch, Tom Holland",
+      "complete": true
+    },
+    {
+      "id": 9,
+      "title": "Dunkirk",
+      "plotSummary": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.",
+      "year": 2017,
+      "author": "Fionn Whitehead, Tom Glynn-Carney, Jack Lowden, Harry Styles",
+      "complete": true
+    },
+    {
+      "id": 10,
+      "title": "Star Wars: The Last Jedi",
+      "plotSummary": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+      "year": 2017,
+      "author": "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac ",
+      "complete": true
+    },
+    {
+      "title": "Black Panther",
+      "plotSummary": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.\n",
+      "year": "2018",
+      "author": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Letitia Wright ",
+      "complete": true,
+      "id": 11
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "plotSummary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.\n",
+      "year": "1994",
+      "author": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+      "complete": true,
+      "id": 12
+    },
+    {
+      "title": "A Quiet Place Part II",
+      "plotSummary": "Following the deadly events at home, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence. Forced to venture into the unknown, they quickly realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+      "year": "2021",
+      "author": "Emily Blunt, Cillian Murphy, Millicent Simmonds, Noah Jupe, Djimon Hounsou, John Krasinski",
+      "complete": false,
+      "id": 13
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "plotSummary": "After more than 30 years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell is back, breaking the line as a brave test pilot. In the contemporary world of technological wars, Maverick faces drones and proves that the human factor is still essential. ",
+      "year": "2021",
+      "author": "Tom Cruise, Miles Teller, Jennifer Connelly, Jon Hamm, Val Kilmer, Ed Harris ",
+      "complete": false,
+      "id": 14
+    }
+  ]
+} 
